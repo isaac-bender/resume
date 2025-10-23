@@ -3,7 +3,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/isaac-bender-77634a/)
 
-28 years designing, programming, and leading game development teams • Expert in C/C++, Lua, Python • Shipped 30+ titles across all major platforms
+29 years designing, programming, and leading game development teams • Expert in C/C++, Python • Shipped 30+ titles across all major platforms
 
 ---
 
