@@ -26,10 +26,10 @@
 - **Led console expansion** from PC-only to multi-platform MMORPG, managing 16 engineers
 - **Studio-wide coordination** across Publishing, Marketing, QA, and all internal teams for console strategy
 - Defined beta plan, certification approach, and retail environment testing
-- Established console playtest labs and owned optimization across entire project
+- Owned optimization across the entire project
 - **Shipped major features**: Catacombs expansion and Progression overhaul
 - Managed AI team while leading console-specific development and porting
-- One of two remaining SDMs supporting live operations across multiple game systems
+- Supported live operations across multiple game systems
 
 ---
 
